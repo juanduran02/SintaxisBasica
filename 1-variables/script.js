@@ -9,5 +9,5 @@ console.log(hola)
 
 /*Las variables pueden cambiar de valor en el transcurso del código cómo se ve a continuación*/
 
-var hola="Hola mundo! x2"
+var hola="Hola mundo! x4"
 console.log(hola)
